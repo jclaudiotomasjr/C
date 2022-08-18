@@ -1,7 +1,7 @@
-# Projetinho joguinho de adivinhação em C
+# 🛠️ Projetinho joguinho de adivinhação em C
 
-> Status Finalizado
+> **Status Finalizado**
 
 ```
-  #:hammer: Joguinho de adivinhação para fixar meus estudos em C
+  Joguinho de adivinhação para fixar meus estudos em C
 ```
