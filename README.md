@@ -3,5 +3,5 @@
 > Status Finalizado
 
 ```
-  >:hamer: Joguinho de adivinhação para fixar meus estudos em C
+  >:hammer: Joguinho de adivinhação para fixar meus estudos em C
 ```
